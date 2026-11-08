@@ -12,7 +12,7 @@ import {
 } from 'lucide-react'
 
 import Navbar from '../components/Navbar'
-import perfumes from '../data/Perfumes'
+import perfumes from '../data/perfumes.js'
 
 function Product() {
   const { id } = useParams()

@@ -4,7 +4,7 @@ import { ArrowUpRight } from 'lucide-react'
 import { Link } from 'react-router-dom'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
-import perfumes from '../data/Perfumes'
+import perfumes from '../data/perfumes.js'
 
 function Collections() {
   return (

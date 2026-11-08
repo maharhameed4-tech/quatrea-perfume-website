@@ -10,7 +10,7 @@ import {
 
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
-import perfumes from '../data/Perfumes'
+import perfumes from '../data/perfumes.js'
 
 function Cart() {
   const [cartItems, setCartItems] = useState(() =>
